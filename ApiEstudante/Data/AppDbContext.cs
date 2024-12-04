@@ -4,7 +4,7 @@ namespace ApiEstudante;
 
 public class AppDbContext : DbContext
 {
-    public DbSet<Estudante> estudante {get; set;}
+    public DbSet<Estudante> Estudante {get; set;}
     
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {

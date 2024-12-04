@@ -1,0 +1,1 @@
+public record UpdateEstudanteRequest(string nome);

@@ -121,3 +121,4 @@ C:\Users\Marco\Desktop\RefazendoAPI\ApiEstudante\obj\Debug\net8.0\ApiEstudante.g
 C:\Users\Marco\Desktop\RefazendoAPI\ApiEstudante\obj\Debug\net8.0\ref\ApiEstudante.dll
 C:\Users\Marco\Desktop\RefazendoAPI\ApiEstudante\bin\Debug\net8.0\MySqlConnector.dll
 C:\Users\Marco\Desktop\RefazendoAPI\ApiEstudante\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Marco\Desktop\RefazendoAPI\ApiEstudante\obj\Debug\net8.0\ApiEstudante.sourcelink.json

@@ -13,5 +13,14 @@ public class Estudante
     Id = Guid.NewGuid(); // função .net que gera novo ID
     Ativo = true;  // sempre gera um estudante ativo
    }
+
+   public void AtualizarNome (string nome)
+   {
+    Nome = nome;
+   }
     
+    public void Desativar ()
+    {
+        Ativo = false;
+    }
 }
